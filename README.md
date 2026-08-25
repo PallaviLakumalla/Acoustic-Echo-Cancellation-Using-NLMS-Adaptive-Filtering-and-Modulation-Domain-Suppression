@@ -74,6 +74,9 @@ This project work has been published as a research paper:
 **Volume:** Volume 14, Issue VII  
 **Publication:** July 2026
 
+**Paper URL** 
+https://www.ijraset.com/research-paper/acoustic-echo-cancellation-using-nlms-adaptive-filtering
+
 ## Future Work
 
 Future work will focus on:
