@@ -83,3 +83,20 @@ Future work will focus on:
 - Evaluation using measured Room Impulse Responses
 - Real-time implementation
 - Validation in practical hands-free communication environments
+
+## Repository Structure
+
+```text
+Acoustic-Echo-Cancellation-NLMS-Modulation-Domain/
+│
+├── code/
+│   └── MATLAB implementation files
+│
+├── data/
+│   └── Input speech and noise data
+│
+├── results/
+│   └── Waveforms, spectrograms, plots, and performance results
+│
+├── Architecture Diagram.png
+└── README.md
